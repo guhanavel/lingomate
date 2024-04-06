@@ -1,2 +1,2 @@
-# lingomate
-EducateHack2024 project
+# edubotv1
+ development in progress
