@@ -1,0 +1,37 @@
+﻿Session,StudentID,StudentName,Question,StudentAnswer,GrammarScore,GrammarFeedback,AppropriatenessScore,AppropriatenessFeedback,TypeCat,TypeError,SuggestedAnswer
+1,1,Alex,Wie heißen Sie?,Mein Name ist Alex.,4,Correct but formal.,5,Response is appropriate.,Tone,Formality,Ich heiße Alex.
+2,1,Alex,Woher kommen Sie?,Ich komme aus Berlin.,5,Perfect use of grammar.,5,Perfectly appropriate response.,None,None,Ich komme aus Berlin.
+1,1,Alex,Was machen Sie hier?,Ich bin ein Student.,4,"Correct, but ""bin"" could be more specific.",4,"Good, but specifying the subject of study could enhance it.",Content Quality,Specificity,Ich studiere hier.
+3,1,Alex,Wie heißen Sie?,Ich heiße Alex.,5,Perfect adjustment.,5,Perfectly appropriate response.,None,None,Ich heiße Alex.
+1,1,Alex,Woher kommen Sie?,Ich bin aus Berlin.,4,"""Bin aus"" is less common; ""komme aus"" preferred.",5,Understandable and appropriate.,Construction,Phrase Choice,Ich komme aus Berlin.
+2,1,Alex,Was machen Sie hier?,Ich studiere Informatik.,5,Perfect response.,5,Exactly what was needed.,None,None,Ich studiere Informatik hier.
+2,1,Alex,Wie heißen Sie?,Alex.,3,Too informal.,4,"Direct, but missing a verb for full sentences.",Tone,Informality,Ich heiße Alex.
+3,1,Alex,Woher kommen Sie?,"Ich komme aus Deutschland, aus Berlin.",5,Excellent detail.,5,Adds valuable context.,None,None,"Ich komme aus Deutschland, Berlin."
+3,1,Alex,Was machen Sie hier?,Ich mache einen Deutschkurs.,5,Grammar is correct.,5,Very relevant to the question.,None,None,Ich besuche einen Deutschkurs.
+1,2,Jamie,Wie heißen Sie?,Ich bin Jamie.,3,"""Ich bin"" is not standard for introductions.",4,"Understandable, but too informal.",Tone,Formality,Ich heiße Jamie.
+1,2,Jamie,Woher kommen Sie?,Aus London.,3,"Missing subject, ""Ich"".",3,Lacks detail; which country is London in?,Content Quality,Completeness,"Ich komme aus London, England."
+1,2,Jamie,Was machen Sie hier?,Urlaub machen.,2,Missing subject and verb formality.,3,Answers the question but lacks detail.,Construction,Verb Formality,Ich mache hier Urlaub.
+3,2,Jamie,Wie heißen Sie?,Mein Name ist Jamie.,4,"Correct, but a bit formal.",5,"Appropriate, though informal is okay in this context.",None,None,Ich heiße Jamie.
+3,2,Jamie,Woher kommen Sie?,Ich komme aus der Stadt London in England.,5,Perfect detail and form.,5,Excellent specificity and clarity.,None,None,"Ich komme aus London, England."
+3,2,Jamie,Was machen Sie hier?,Ich besuche Freunde und mache Urlaub.,5,Excellent response.,5,Very clear and informative.,None,None,Ich besuche Freunde und mache Urlaub.
+2,2,Jamie,Wie heißen Sie?,Jamie.,2,"Too informal, lacks verb.",3,Too brief for a formal introduction.,Tone,Informality,Ich heiße Jamie.
+2,2,Jamie,Woher kommen Sie?,"Ich lebe in London, aber ich komme aus England.",4,"Good information, slight repetition.",5,Provides clear context.,Content Quality,Repetition,"Ich komme aus London, England."
+2,2,Jamie,Was machen Sie hier?,Studieren.,2,"Missing subject, ""Ich"".",4,Needs more detail to fully answer the question.,Content Quality,Completeness,Ich studiere hier.
+2,3,Sam,Wie heißen Sie?,Ich heiße Sam.,5,Perfect introduction.,5,Direct and appropriately formal response.,None,None,Ich heiße Sam.
+1,3,Sam,Woher kommen Sie?,Ich bin aus den USA.,3,"""'Bin aus' is less precise for origins. Use 'komme aus'.""",4,The response indicates origin but could be more specific.,Choice,Choice,Ich komme aus den USA.
+3,3,Sam,Was machen Sie hier?,Ich studiere Deutsch.,5,Well-stated purpose.,5,Relevant and to the point.,Choice,None,Ich studiere hier Deutsch.
+1,3,Sam,Wie heißen Sie?,Sam ist mein Name.,4,"Correct, but reversing the structure is less common.",5,"Understandable, though the typical structure is preferred.",Choice,Structure,Ich heiße Sam.
+2,3,Sam,Woher kommen Sie?,Ich bin aus den USA.,3,"""'Bin aus' is less precise for origins. Use 'komme aus'.""",4,The response indicates origin but could be more specific.,Choice,Choice,Ich komme aus den USA.
+2,3,Sam,Was machen Sie hier?,Zum Studium bin ich hier.,5,Grammatically correct and formal.,5,Effectively communicates purpose with formal structure.,None,None,Ich bin hier zum Studium.
+3,3,Sam,Wie heißen Sie?,Mein Name ist Sam.,5,Formal and correct structure.,5,Perfectly formal and clear.,None,None,Mein Name ist Sam.
+3,3,Sam,Woher kommen Sie?,Ich bin aus den USA.,3,"""'Bin aus' is less precise for origins. Use 'komme aus'.""",4,The response indicates origin but could be more specific.,Choice,Choice,Ich komme aus den USA.
+1,3,Sam,Was machen Sie hier?,Deutsch lernen.,4,Missing 'Ich' at the beginning makes the sentence incomplete.,5,"Straightforward and clear, but remember to start with 'Ich'.",Content Quality,Completeness,Ich lerne hier Deutsch.
+1,4,Taylor,Wie heißen Sie?,Taylor ist mein Name.,4,"Correct but informal. The verb ""heißen"" is more appropriate.",5,"Understandable, but more formality is preferred.",Tone,Informality,Ich heiße Taylor.
+1,4,Taylor,Woher kommen Sie?,Ich bin aus Kanada.,3,"Use ""komme aus"" instead of ""bin aus"" for origins.",5,"Correct information, though wording could be improved.",Construction,Verb Choice,Ich komme aus Kanada.
+1,4,Taylor,Was machen Sie hier?,Arbeit.,2,"Missing subject and verb, e.g., ""Ich arbeite.""",3,Too vague; lacks detail about the nature of the work.,Content Quality,Completeness,Ich arbeite hier.
+3,4,Taylor,Wie heißen Sie?,Ich heiße Taylor.,5,"Perfect use of ""heißen.""",5,Perfectly appropriate and formal response.,None,None,Ich heiße Taylor.
+2,4,Taylor,Woher kommen Sie?,Aus Toronto.,4,"Correct, but missing ""Ich komme"" for clarity.",4,"Information is there, but the structure is lacking.",Content Quality,Completeness,"Ich komme aus Toronto, Kanada."
+2,4,Taylor,Was machen Sie hier?,Ich arbeite als Ingenieur.,5,Grammar and structure are correct.,5,Clearly explains the purpose of being here.,None,None,Ich arbeite hier als Ingenieur.
+2,4,Taylor,Wie heißen Sie?,Man nennt mich Taylor.,4,"Interesting form, but simpler ""Ich heiße"" is standard.",4,A bit informal and unusual wording for a simple question.,Tone,Formality,Ich heiße Taylor.
+3,4,Taylor,Woher kommen Sie?,Aus Toronto.,4,"Correct, but missing ""Ich komme"" for clarity.",4,"Information is there, but the structure is lacking.",Content Quality,Completeness,"Ich komme aus Toronto, Kanada."
+3,4,Taylor,Was machen Sie hier?,Ich bin hier für einen Ingenieurjob.,4,"""Bin hier für"" is understandable but awkward.",5,"Purpose is clear, though phrasing could be smoother.",Construction,Phrasing,Ich arbeite hier als Ingenieur.
