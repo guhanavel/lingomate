@@ -18,3 +18,10 @@ Lingomate contains 2 key parts, teacher dashboard and student practice module
 To run teacher dashboard run '''python main.py'''
 To run student pratice module run backend with the command '''uvicorn main:app --host 0.0.0.0 --port 8000'''
 To run student pratice module run frontend with the command '''npm run dev'''
+
+## Screenshot
+![image](https://github.com/guhanavel/lingomate/assets/76834145/62c46d52-8cdc-4943-a2dd-5117cf014b99)
+
+![image](https://github.com/guhanavel/lingomate/assets/76834145/ed29d59e-1a14-426d-9a7f-b4327506eab3)
+
+
